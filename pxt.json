@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "Youtube.ts"
+        "Youtube.ts",
+        "_locales/fr-FR/README.md"
     ],
     "testFiles": [
         "test.ts"
